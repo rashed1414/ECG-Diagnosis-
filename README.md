@@ -1,4 +1,4 @@
-# ECG-Diagnosis-  (On going)
+# ECG-Diagnosis
 
 To run these modules you should install the packages in requirement.txt
 
